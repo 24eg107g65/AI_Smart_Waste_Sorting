@@ -17,3 +17,21 @@ This project is an AI-based waste classification system that automatically class
 - Streamlit (if used)
 
 ## 📂 Project Structure
+
+AI_Smart_Waste_Sorting/
+│
+├── train.py
+├── requirements.txt
+├── README.md
+
+
+## ⚙ Installation
+```bash
+pip install -r requirements.txt
+
+▶ Run
+python train.py
+
+
+
+
